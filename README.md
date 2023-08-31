@@ -17,6 +17,6 @@
 </div>
 <br/>
 <div style="background-color: gray">
-<h1>Apaixonado por tecnologia, solucionar problemas e desafios em programação!!!</h1>
+<h1>Apaixonado por tecnologia, resolver problemas e desafios em programação!!!</h1>
 </div>
 
